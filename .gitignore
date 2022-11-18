@@ -1,0 +1,8 @@
+.vs
+Library
+Temp
+*.apk
+Assembly-CSharp.csproj
+SimStoreApprentice.sln
+/build
+/.vscode
