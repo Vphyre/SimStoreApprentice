@@ -9,10 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 08b49457f7471294f8ded8c8d43ae0ab, type: 3}
+  m_Script: {fileID: 11500000, guid: 65592c58ed6b7764fa39a87befb59bd0, type: 3}
   m_Name: Character Body
   m_EditorClassIdentifier: 
-  characterBodyParts:
+  bodyParts:
   - bodyPartName: Body
     bodyPart: {fileID: 11400000, guid: 48cdaf5d95f59d94a8fa889ff85dcc07, type: 2}
   - bodyPartName: Hair
